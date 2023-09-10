@@ -1,0 +1,12 @@
+{
+  "name": "tp1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "TP1-ManejoDeArchivos(SYNC).js",
+  "scripts": {
+    "test": "node TP1-ManejoDeArchivos(SYNC).js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
